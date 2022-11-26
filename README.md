@@ -1,2 +1,1 @@
-# Whiskies voor Ko
-Verjaardag 2022
+[Whiskies voor Ko] (ko.md)
