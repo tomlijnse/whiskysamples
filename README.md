@@ -1,3 +1,3 @@
-[Adri](adri.md)
-[Dimitry](dimitry.md)
-[Ko](ko.md)
+- [Adri](adri.md)
+- [Dimitry](dimitry.md)
+- [Ko](ko.md)
