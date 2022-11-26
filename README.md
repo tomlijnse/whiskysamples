@@ -1,2 +1,2 @@
-# whiskysamples
-To be used with GitHub Pages to publish "mystery sample" information
+# Whiskies voor Ko
+Verjaardag 2022
