@@ -1,1 +1,1 @@
-[Whiskies voor Ko] (ko.md)
+[Whiskies voor Ko](ko.md)
